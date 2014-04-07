@@ -1,0 +1,28 @@
+
+G-Mang Unofficial Beta 33
+  * Updated the backpack to make use for the new pages system
+  * Original backpack buttons now let you use the A and D keys on your keyboard to navigate
+  * Updated Winpanel.res and added __FAR option for the highest killstreak panel
+  * Fixed the bug where in the item info panel while spectating would have an obnoxious [unknown] overlaying on top of item stats
+  * Removed smooth edges from the killstreak notice to give a G-Mang feel to it
+  * Removed huditemeffectmeter_Killstreak__MIDDLE.res
+  * Added huditemeffectmeter_Killstreak__AMMO.res
+  * Renamed huditemeffectmeter_Killstreak__DEFAULT.res to huditemeffectmeter_Killstreak__HEALTH.res
+  * Fixed problem where you couldn't see how much money was on the ground in MvM
+  * Moved MvM money counter to center of screen
+  * Removed some of alosec's files that don't do much that were there due to me assuming they did things
+
+
+G-Mang Unofficial Beta 32.2
+  * Updated killstreak counter
+  * Updated TargetID.res to show killstreak icon-arrow-thingy
+
+
+G-Mang Unofficial Beta 32
+	- First release
+ * Added killstreak counter
+ * Added extra options for killstreak counter
+ * Fixed all scoreboards to show killstreaks properly
+ * Added 3D Player Model to the Hud; also added 3d model option that better fits the VALVE HudPlayerHealth option
+ * Added rainbow ubercharge option in the 'scripts' folder with the extension __RAINBOWUBER
+ * Fixed the end-round panel not showing the highest killstreak in winpanel.res
