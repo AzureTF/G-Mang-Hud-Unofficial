@@ -1,6 +1,3 @@
-G-Mang Unofficial Beta 34
-	*Fixed the charge meter for demo, the targe and loose cannon meters are separate now
-	*Moved the MvM cash counter [again]
 
 G-Mang Unofficial Beta 33
   * Updated the backpack to make use for the new pages system
