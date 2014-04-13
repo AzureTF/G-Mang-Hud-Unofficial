@@ -13,7 +13,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"MeterFG"		"255 255 255 255"
-		"MeterBG"		"8 8 8 96"
+		"MeterBG"		"8 8 8 0"
 	}
 	
 	"ItemEffectMeterBG"

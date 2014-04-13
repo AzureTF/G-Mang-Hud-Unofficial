@@ -1,4 +1,8 @@
 
+G-Mang Unofficial Beta 34
+  * Updated the Demoman charge meter for the loose cannon
+  * Moved MvM money counter [again]
+
 G-Mang Unofficial Beta 33
   * Updated the backpack to make use for the new pages system
   * Original backpack buttons now let you use the A and D keys on your keyboard to navigate

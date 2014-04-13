@@ -196,7 +196,7 @@
 		"fieldName"		"ChargeMeter" //CHARGIN TARGE BAR
 		"font"			"Default"
 		"xpos"			"c-90"
-		"ypos"	"r115"
+		"ypos"	"r100"
 		"zpos"			"2"
 		"wide"			"180"
 		"tall"			"7"				
