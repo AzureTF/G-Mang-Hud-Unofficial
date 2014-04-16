@@ -1,0 +1,5 @@
+1. Delete all the text after and including the double underscores except the file extension ( e.x. Scoreboard__32-COMP.res so remove "__32-COMP" )
+
+2. Move the file to it's respective location
+
+3. Overwrite files it asks you to

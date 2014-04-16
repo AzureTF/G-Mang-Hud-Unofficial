@@ -1607,8 +1607,9 @@
 		
 		if_mvm
 		{
-			"xpos"		"c-168"
+			"xpos"		"c-268"
 			"ypos"		"68"
+			"zpos"		"0"
 		}
 	}
 	"RedTeamPlayerScores"
@@ -1687,8 +1688,9 @@
 		
 		if_mvm
 		{
-			"xpos"		"c133"
+			"xpos"		"c198"
 			"ypos"		"68"
+			"zpos"		"0"
 		}
 	}
 	"ServerLabel"
@@ -1718,7 +1720,7 @@
 			"fgcolor"		"SBServerName"
 			"alpha"			"255"
 			"textAlignment"		"west"
-			"xpos"		"c-197"
+			"xpos"		"c-297"
 			"ypos"		"66"
 		}
 	}
@@ -1749,7 +1751,7 @@
 			"fgcolor"		"SBServerTime"
 			"alpha"			"255"
 			"textAlignment"		"east"
-			"xpos"		"c-43"
+			"xpos"		"c53"
 			"ypos"		"54"
 			"wide"		"240"
 			"tall"			"34"
@@ -3803,6 +3805,190 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
+	}
+	"MvMClassLabel"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"MvMClassLabel"
+		"font"			"DefaultVerySmallOutline"
+		"labelText"		"Class"
+		"fgcolor"		"SBTeamPlayerCount"
+		"textAlignment"		"west"
+		"xpos"		"c-160"
+		"ypos"		"68"
+		"wide"			"100"
+		"tall"			"29"
+		"zpos"			"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		
+		if_mvm
+		{
+			"visible"	"1"
+		}
+	}
+	"MvMTourLabel"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"MvMTourLabel"
+		"font"			"DefaultVerySmallOutline"
+		"labelText"		"Tour"
+		"fgcolor"		"SBTeamPlayerCount"
+		"textAlignment"		"west"
+		"xpos"		"c-122"
+		"ypos"		"68"
+		"wide"			"100"
+		"tall"			"29"
+		"zpos"			"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		
+		if_mvm
+		{
+			"visible"	"1"
+		}
+	}
+	"MvMScoreLabel"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"MvMScoreLabel"
+		"font"			"DefaultVerySmallOutline"
+		"labelText"		"Score"
+		"fgcolor"		"SBTeamPlayerCount"
+		"textAlignment"		"west"
+		"xpos"		"c-88"
+		"ypos"		"68"
+		"wide"			"100"
+		"tall"			"29"
+		"zpos"			"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		
+		if_mvm
+		{
+			"visible"	"1"
+		}
+	}
+	"MvMDamageLabel"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"MvMDamageLabel"
+		"font"			"DefaultVerySmallOutline"
+		"labelText"		"Damage"
+		"fgcolor"		"SBTeamPlayerCount"
+		"textAlignment"		"west"
+		"xpos"		"c-52"
+		"ypos"		"68"
+		"wide"			"100"
+		"tall"			"29"
+		"zpos"			"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		
+		if_mvm
+		{
+			"visible"	"1"
+		}
+	}
+	"MvMTankDamageLabel"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"MvMTankDamageLabel"
+		"font"			"DefaultVerySmallOutline"
+		"labelText"		"Tank"
+		"fgcolor"		"SBTeamPlayerCount"
+		"textAlignment"		"west"
+		"xpos"		"c0"
+		"ypos"		"68"
+		"wide"			"100"
+		"tall"			"29"
+		"zpos"			"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		
+		if_mvm
+		{
+			"visible"	"1"
+		}
+	}
+	"MvMHealingLabel"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"MvMHealingLabel"
+		"font"			"DefaultVerySmallOutline"
+		"labelText"		"Healing"
+		"fgcolor"		"SBTeamPlayerCount"
+		"textAlignment"		"west"
+		"xpos"		"c34"
+		"ypos"		"68"
+		"wide"			"100"
+		"tall"			"29"
+		"zpos"			"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		
+		if_mvm
+		{
+			"visible"	"1"
+		}
+	}
+	"MvMSupportLabel"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"MvMSupportLabel"
+		"font"			"DefaultVerySmallOutline"
+		"labelText"		"Support"
+		"fgcolor"		"SBTeamPlayerCount"
+		"textAlignment"		"west"
+		"xpos"		"c76"
+		"ypos"		"68"
+		"wide"			"100"
+		"tall"			"29"
+		"zpos"			"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		
+		if_mvm
+		{
+			"visible"	"1"
+		}
+	}
+	"MvMScoreBoardMoneyLabel"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"MvMScoreBoardMoneyLabel"
+		"font"			"DefaultVerySmallOutline"
+		"labelText"		"Money"
+		"fgcolor"		"SBTeamPlayerCount"
+		"textAlignment"		"west"
+		"xpos"		"c124"
+		"ypos"		"68"
+		"wide"			"100"
+		"tall"			"29"
+		"zpos"			"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		
+		if_mvm
+		{
+			"visible"	"1"
+		}
 	}
 }
 

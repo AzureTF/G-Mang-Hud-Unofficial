@@ -1,4 +1,15 @@
 
+G-Mang Unofficial Beta 35
+  * Fixed MvM Scoreboard
+  * Fixed MvM Tank/Boss Meter not showing up
+  * Fixed the MvM money counter for Good this time
+  * Moved customization options to their own folders
+  * Changed the default Medic charge meter to __MIDDLE
+  * Added alosec's crosshair to HudPlayerClass.res; disabled by default
+  * I accidentaly left the default ammo indicator option on __VALVE in the last update; this is fixed now
+  * Updated the Winpanel again
+  * Removed extra options for the Winpanel
+
 G-Mang Unofficial Beta 34
   * Updated the Demoman charge meter for the loose cannon
   * Moved MvM money counter [again]

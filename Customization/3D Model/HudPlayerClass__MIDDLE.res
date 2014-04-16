@@ -4,7 +4,26 @@
 //G-Mang HUD
 
 	// player class data
-	
+
+		//alosec's X-Hair
+	CrossHairNormal
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"CrossHairNormal"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"1"
+
+		"xpos"			"c-5"
+		"ypos"			"c-14"
+		"wide"			"25"
+		"tall"			"24"
+
+		"font"			"CrossHairNormal"
+		"labelText"		"+"
+		"fgcolor"		"255 255 255 255"
+		"textAlignment"	"left"
+	}	
 	"CHMinmodeText"
 	{
 		"ControlName"	"CExLabel"
@@ -810,7 +829,7 @@
 		"fieldName"		"classmodelpanel"
 		
 		"xpos"			"185"	[$WIN32]
-		"ypos"			"r170"	[$WIN32]
+		"ypos"			"r230"	[$WIN32]
 		"zpos"			"2"		
 		"wide"			"85"
 		"tall"			"170"

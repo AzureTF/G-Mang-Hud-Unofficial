@@ -10,7 +10,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"VersionLabel"
 		"font"			"DefaultVerySmallOutline"
-		"labelText"		"G-Mang HUD Unofficial B33"
+		"labelText"		"G-Mang HUD Unofficial B35"
 		"textAlignment"		"south-east"
 		"xpos"			"r100"
 		"ypos"			"r20"
@@ -135,7 +135,7 @@
 		"blog_url"		"http://www.teamfortress.com/"
 		
 		"button_x_offset"	"-295"
-		"button_y"			"313"
+		"button_y"			"315"
 		"button_y_delta"	"-52"
 		"button_kv"
 		{

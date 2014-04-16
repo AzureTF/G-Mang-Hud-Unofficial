@@ -29,10 +29,10 @@
 		"enabled"			"1"
 	}
 	
-	"TankStatusPanel"
+	"BossStatusPanel"
 	{
-		"ControlName"		"CTankStatusPanel"
-		"fieldName"			"TankStatusPanel"
+		"ControlName"		"CMvMBossStatusPanel"
+		"fieldName"			"BossStatusPanel"
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"0"
@@ -50,8 +50,8 @@
 	{
 		"ControlName"		"CCurrencyStatusPanel"
 		"fieldName"			"CurrencyStatusPanel"
-		"xpos"				"c-54"
-		"ypos"				"r128"
+		"xpos"				"c-340"
+		"ypos"				"r155"
 		"wide"				"100"
 		"tall"				"100"
 		"visible" 			"1"
@@ -61,8 +61,8 @@
 	{
 		"ControlName"		"CInWorldCurrencyStatus"
 		"fieldName"			"InWorldCurrencyPanel"
-		"xpos"				"c-24"
-		"ypos"				"r35"
+		"xpos"				"c-310"
+		"ypos"				"r65"
 		"wide"				"100"
 		"tall"				"100"
 		"visible" 			"1"

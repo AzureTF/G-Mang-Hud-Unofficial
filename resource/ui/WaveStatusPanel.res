@@ -23,7 +23,7 @@
 	}
 	"WaveBG"
 	{
-		"ControlName"		"ImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"WaveBG"
 		"xpos"			"100"
 		"ypos"			"2"
