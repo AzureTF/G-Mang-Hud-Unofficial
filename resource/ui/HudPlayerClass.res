@@ -10,8 +10,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairNormal"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"zpos"			"1"
 
 		"xpos"			"c-5"
