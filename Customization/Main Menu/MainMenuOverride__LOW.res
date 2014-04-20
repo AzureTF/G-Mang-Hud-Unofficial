@@ -10,7 +10,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"VersionLabel"
 		"font"			"DefaultVerySmallOutline"
-		"labelText"		"G-Mang HUD Unofficial B35"
+		"labelText"		"G-Mang HUD Unofficial B36"
 		"textAlignment"		"south-east"
 		"xpos"			"r100"
 		"ypos"			"r20"

@@ -1103,7 +1103,7 @@
 		"xpos"					"r270"
 		"ypos"					"300"
 		"wide"					"270"
-		"tall"					"100"
+		"tall"					"200"
 	}
 	
 	HudTFCrosshair

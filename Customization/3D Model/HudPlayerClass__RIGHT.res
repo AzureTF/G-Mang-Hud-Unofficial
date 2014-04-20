@@ -23,7 +23,27 @@
 		"labelText"		"+"
 		"fgcolor"		"255 255 255 255"
 		"textAlignment"	"left"
-	}	
+	}
+
+		//custom dot xhair
+	Dot
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"CrossHairNormalDot"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"1"
+
+		"xpos"			"410"
+		"ypos"			"212"
+		"wide"			"35"
+		"tall"			"35"
+
+		"font"			"CrossHairNormal"
+		"labelText"		"."
+		"fgcolor"		"255 255 255 255"
+		"textAlignment"	"center"
+	}		
 	"CHMinmodeText"
 	{
 		"ControlName"	"CExLabel"

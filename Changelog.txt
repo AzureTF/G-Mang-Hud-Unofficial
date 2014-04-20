@@ -1,4 +1,9 @@
 
+G-Mang Unofficial Beta 36
+  * Added screenshots for scoreboards
+  * Added custom dot crosshair
+  * Fixed inspecting items in competitive matches and MvM
+  
 G-Mang Unofficial Beta 35
   * Fixed MvM Scoreboard
   * Fixed MvM Tank/Boss Meter not showing up
