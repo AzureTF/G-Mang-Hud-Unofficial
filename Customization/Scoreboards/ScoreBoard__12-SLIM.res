@@ -1952,6 +1952,38 @@
 			}
 		}		
 	}
+		"MapName"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"mapname"
+			"font"			"ScoreboardVerySmallOutline"
+			"labelText"		"%mapname%"
+			"textAlignment"		"west"
+			"xpos_minmode"			"9999"
+			"xpos"			"5"
+			"ypos"			"371"
+			"wide"			"245"
+			"tall"			"12"
+			"zpos"			"3"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor"		"SBMap"
+			
+			if_mvm
+			{
+				"font"			"ScoreboardVerySmallOutline"
+				"fgcolor"		"SBMap"
+				"aplha"			"255"
+				"textAlignment"		"west"
+				"xpos"			"5"
+				"ypos"			"371"
+				"wide"			"245"
+				"tall"			"12"
+				"alpha"		"255"
+			}
+		}
 	"LocalPlayerStatsPanel"
 	{
 		"ControlName"		"EditablePanel"
@@ -2802,38 +2834,6 @@
 				"alpha"		"255"
 			}
 		}												
-		"MapName"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"mapname"
-			"font"			"ScoreboardVerySmallOutline"
-			"labelText"		"%mapname%"
-			"textAlignment"		"west"
-			"xpos_minmode"			"9999"
-			"xpos"			"5"
-			"ypos"			"371"
-			"wide"			"245"
-			"tall"			"12"
-			"zpos"			"3"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor"		"SBMap"
-			
-			if_mvm
-			{
-				"font"			"ScoreboardVerySmallOutline"
-				"fgcolor"		"SBMap"
-				"aplha"			"255"
-				"textAlignment"		"west"
-				"xpos"			"5"
-				"ypos"			"371"
-				"wide"			"245"
-				"tall"			"12"
-				"alpha"		"255"
-			}
-		}
 		"Assists"
 		{
 			"ControlName"		"CExLabel"

@@ -1,4 +1,4 @@
-G-Mang Unofficial Beta 35
+G-Mang Unofficial Beta 37
 
 To install:
 

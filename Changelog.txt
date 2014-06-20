@@ -1,4 +1,9 @@
 
+G-Mang Unofficial Beta 37
+  * Added support for new taunt menu
+  * Added support for eureka effect menu
+  * Temporarily removed the "Set Style" button on backpack page
+
 G-Mang Unofficial Beta 36
   * Added screenshots for scoreboards
   * Added custom dot crosshair

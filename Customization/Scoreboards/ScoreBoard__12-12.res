@@ -1792,6 +1792,24 @@
 			}
 		}		
 	}
+		"MapName"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"mapname"
+			"font"			"ScoreboardVerySmallOutline"
+			"labelText"		"%mapname%"
+			"textAlignment"		"west"
+			"xpos"			"5"
+			"ypos"			"371"
+			"wide"			"245"
+			"tall"			"12"
+			"zpos"			"3"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor"		"SBMap"
+		}
 	"LocalPlayerStatsPanel"
 	{
 		"ControlName"		"EditablePanel"
@@ -2292,24 +2310,6 @@
 			"enabled"		"1"
 			"fgcolor"		"SBStats"
 		}												
-		"MapName"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"mapname"
-			"font"			"ScoreboardVerySmallOutline"
-			"labelText"		"%mapname%"
-			"textAlignment"		"west"
-			"xpos"			"5"
-			"ypos"			"371"
-			"wide"			"245"
-			"tall"			"12"
-			"zpos"			"3"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor"		"SBMap"
-		}
 		"Assists"
 		{
 			"ControlName"		"CExLabel"
